@@ -5,10 +5,10 @@ Aplikacja została stworzona przy wykorzystaniu Spring Boot
 
 Aplikacja wystawia REST API:
 -POST /api/create - przyjmuje zamówienia
-![](post.png)
+![](/screenshots/post.png)
 
 -GET  /api/view_orders/id - z parametrem id - pobiera dane do paragonu/faktury
-![](get.png)
+![](/screenshots/get.png)
 
 
 
