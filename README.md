@@ -1,4 +1,4 @@
-# Aplikcja do obslugi klientów w barze.
+﻿# Aplikcja do obsługi klientów w barze.
 Aplikacja została stworzona na potrzeby rekrutacji
 
 Aplikacja została stworzona przy wykorzystaniu Spring Boot
@@ -12,7 +12,7 @@ Aplikacja wystawia REST API:
 
 
 
-aplikacja pozwala również na pobranie informacji o wszystkich zamówieniach:
+Aplikacja pozwala również na pobranie informacji o wszystkich zamówieniach:
 
 -GET /api/view_orders
 
